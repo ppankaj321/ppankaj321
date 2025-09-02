@@ -25,7 +25,11 @@ I enjoy solving complex real-time problems and building scalable, production-gra
 ## 🗓 Weekly Activity (from 24-08-2025)
 
 <!--START_SECTION:weekly_activity-->
-<!-- This section will be auto-filled with week-wise activity -->
+
+| Week       |   Activities |   Cumulative |
+|:-----------|-------------:|-------------:|
+| 2025-08-25 |           28 |           28 |
+
 <!--END_SECTION:weekly_activity-->
 
 ---
