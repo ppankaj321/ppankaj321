@@ -14,3 +14,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Hi, I'm Pankaj Pathak
+
+🚀 IT professional with extensive experience in **Python, C/C++, Data Science, AI on IoT, and large-scale system design**.  
+I enjoy solving complex real-time problems and building scalable, production-grade solutions.
+
+---
+
+## 🗓 Weekly Activity (from 24-08-2025)
+
+<!--START_SECTION:weekly_activity-->
+<!-- This section will be auto-filled with week-wise activity -->
+<!--END_SECTION:weekly_activity-->
+
+---
+
+## 📊 Weekly & Cumulative Activity Graphs
+
+**Weekly Activities**
+![Weekly Activity Graph](./weekly_activity_graph.svg)
+
+**Cumulative Activities**
+![Cumulative Activity Graph](./cumulative_activity_graph.svg)
+
+---
+
+## 📈 GitHub Stats
+
+![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppankaj321&show_icons=true&count_private=true&include_all_commits=true)
+
+---
+
