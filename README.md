@@ -29,6 +29,7 @@ I enjoy solving complex real-time problems and building scalable, production-gra
 | Week       |   Activities |   Cumulative |
 |:-----------|-------------:|-------------:|
 | 2025-08-25 |           28 |           28 |
+| 2025-09-01 |            8 |           36 |
 
 <!--END_SECTION:weekly_activity-->
 
